@@ -1,9 +1,8 @@
 import ArrayBufferConverter from './ArrayBufferConverter';
 
 // const initialData = 'Tests';
-// const testBuffer = new ArrayBufferConverter();
 
-// const buffer = testBuffer.load(initialData);
-// const data = testBuffer.toString(buffer);
+// const buffer = ArrayBufferConverter.load(initialData);
+// const data = ArrayBufferConverter.toString(buffer);
 // console.log(buffer);
 // console.log(data);
